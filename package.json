@@ -1,0 +1,10 @@
+{
+    "name": "bancoCapgemini",
+    "version": "1.0.0",
+    "license": "MIT",
+    "scripts": {
+      "start": "(cd Client && npm start) & (cd Server && php artisan serve --port=8000)"
+    },
+    "private": false
+}
+  
